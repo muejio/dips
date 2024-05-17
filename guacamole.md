@@ -10,4 +10,5 @@ Instructions:
 - chop jalapeño
 - squeeze lime
 - add salt
+- add hot sauce
 - and mix well
